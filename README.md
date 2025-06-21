@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**rishas0507/rishas0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋!! This is Risha aka => **rishas0507/rishas0507** 
 
 - 🔭 I’m currently working on my Scaler Project for my MS in COMPUTER SCIENCE
 - 🌱 I’m currently learning BACKEND projects on Java, Oracle SQL & Javascript and I would like to introdce AI into my Profile
